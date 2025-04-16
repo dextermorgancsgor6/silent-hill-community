@@ -1,0 +1,1 @@
+console.log('Silent Hill site loaded');
